@@ -1,0 +1,23 @@
+{
+  "version": "0.2.0",
+  "configurations": [
+    {
+      "name": "Python Debugger: Test Mode (GeoIP + Alert)",
+      "type": "debugpy",
+      "request": "launch",
+      "program": "${file}",
+      "console": "integratedTerminal",
+      "args": [
+        "--file", "sample_auth.log",
+        "--threshold", "1",
+        "--geo",
+        "--save",
+        "--block",
+        "--stats",
+        "--alert",
+        "--test", "5"
+      ],
+      "cwd": "${workspaceFolder}"
+    }
+  ]
+}

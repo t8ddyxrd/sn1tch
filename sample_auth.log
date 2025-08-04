@@ -1,0 +1,37 @@
+
+
+Aug 5 12:47:01 server sshd[9999]: Failed password for invalid user admin from 5.5.5.5 port 22 ssh2
+Aug 5 12:10:01 server sshd[9999]: Failed password for invalid user test from 1.1.1.1 port 22 ssh2
+Aug 5 12:43:01 server sshd[9999]: Failed password for invalid user admin from 45.67.89.101 port 22 ssh2
+Aug 5 12:54:01 server sshd[9999]: Failed password for invalid user admin from 123.123.123.123 port 22 ssh2
+Aug 5 12:56:01 server sshd[9999]: Failed password for invalid user user from 123.123.123.123 port 22 ssh2
+Aug 5 12:28:01 server sshd[9999]: Failed password for invalid user admin from 8.8.8.8 port 22 ssh2
+Aug 5 12:33:01 server sshd[9999]: Failed password for invalid user test from 8.8.8.8 port 22 ssh2
+Aug 5 12:39:01 server sshd[9999]: Failed password for invalid user test from 8.8.8.8 port 22 ssh2
+Aug 5 12:12:01 server sshd[9999]: Failed password for invalid user admin from 5.5.5.5 port 22 ssh2
+Aug 5 12:17:01 server sshd[9999]: Failed password for invalid user admin from 8.8.8.8 port 22 ssh2
+Aug 5 12:46:01 server sshd[9999]: Failed password for invalid user user from 45.67.89.101 port 22 ssh2
+Aug 5 12:53:01 server sshd[9999]: Failed password for invalid user root from 45.67.89.101 port 22 ssh2
+Aug 5 12:15:01 server sshd[9999]: Failed password for invalid user test from 123.123.123.123 port 22 ssh2
+Aug 5 12:45:01 server sshd[9999]: Failed password for invalid user ubuntu from 8.8.8.8 port 22 ssh2
+Aug 5 12:44:01 server sshd[9999]: Failed password for invalid user user from 123.123.123.123 port 22 ssh2
+Aug 5 12:28:01 server sshd[9999]: Failed password for invalid user ubuntu from 45.67.89.101 port 22 ssh2
+Aug 5 12:43:01 server sshd[9999]: Failed password for invalid user admin from 8.8.8.8 port 22 ssh2
+Aug 5 12:52:01 server sshd[9999]: Failed password for invalid user root from 5.5.5.5 port 22 ssh2
+Aug 5 12:46:01 server sshd[9999]: Failed password for invalid user root from 8.8.8.8 port 22 ssh2
+Aug 5 12:20:01 server sshd[9999]: Failed password for invalid user root from 45.67.89.101 port 22 ssh2
+Aug 5 13:56:05 server sshd[77201]: Failed password for invalid user admin from 186.109.138.235 port 1554 ssh2
+Aug 5 17:13:20 server sshd[24531]: Failed password for invalid user admin from 6.14.117.62 port 49266 ssh2
+Aug 5 19:29:59 server sshd[51516]: Failed password for invalid user ubuntu from 213.57.204.247 port 48601 ssh2
+Aug 5 23:46:08 server sshd[20194]: Failed password for invalid user admin from 95.162.116.208 port 46954 ssh2
+Aug 5 05:23:01 server sshd[18540]: Failed password for invalid user git from 47.238.43.82 port 44153 ssh2
+Aug 5 16:15:18 server sshd[10022]: Failed password for invalid user ubuntu from 228.242.92.50 port 21515 ssh2
+Aug 5 08:46:11 server sshd[5940]: Failed password for invalid user admin from 242.89.117.253 port 55865 ssh2
+Aug 5 20:44:59 server sshd[17566]: Failed password for invalid user oracle from 212.200.209.186 port 34944 ssh2
+Aug 5 04:32:04 server sshd[10031]: Failed password for invalid user oracle from 102.33.126.203 port 49671 ssh2
+Aug 5 08:02:03 server sshd[57741]: Failed password for invalid user dev from 48.48.62.5 port 10251 ssh2
+Aug 5 12:02:42 server sshd[67822]: Failed password for invalid user user from 162.144.8.187 port 37346 ssh2
+Aug 5 14:42:08 server sshd[81860]: Failed password for invalid user git from 243.228.185.246 port 23937 ssh2
+Aug 5 01:23:57 server sshd[63587]: Failed password for invalid user user from 137.171.198.118 port 59790 ssh2
+Aug 5 10:39:47 server sshd[61210]: Failed password for invalid user root from 200.30.149.60 port 3112 ssh2
+Aug 5 08:31:58 server sshd[4273]: Failed password for invalid user test from 42.106.201.202 port 39041 ssh2
